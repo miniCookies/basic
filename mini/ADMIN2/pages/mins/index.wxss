@@ -1,0 +1,17 @@
+/* pages/mins/index.wxss */
+.section{
+  /* display: flex; */
+  font-size: 13px;
+}
+.input_1{
+  width: 200px;
+  height: 30px;
+  border: 1px solid coral;
+  font-size: 12px;
+}
+.butt_1{
+  width: 100px;
+  height: 30px;
+  font-size: 13px;
+  float: left;
+}
